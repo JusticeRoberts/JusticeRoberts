@@ -13,6 +13,7 @@ Hi! I'm Justice Roberts, I am a software engineer passionate about delivering hi
  - RESTful APIs - MVC, middleware, authorized endpoints
  - TS/JS - React, Zustand, NestJS, TypeORM
  - DevSecOps - iptables
+
 **Comfortable With** - The technologies that I have used extensively and am comfortable with
  - Authentication - PKCE flow, OIDC, Auth0, JWTs
  - DevSecOps - Docker, Nginx, VPS setup and hardening, Github actions, continuous deployment, SSH
@@ -22,6 +23,7 @@ Hi! I'm Justice Roberts, I am a software engineer passionate about delivering hi
  - Python - Pygame, Pytorch, Tensorflow
  - Java - FRC Robotics
  - CSS - Tailwind, StyledComponents
+
 **Learning** - The technologies that I am actively learning
  - Go - Gin
  - Kubermetes
