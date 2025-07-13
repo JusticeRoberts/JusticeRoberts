@@ -9,12 +9,12 @@ Hi! I'm Justice Roberts, I am a software engineer passionate about delivering hi
 **Expert Level** - The technologies that I have the most experience with
  - Math - Linear Algebra, Abstract Algebra, Differential Equations, Calculus 3, Automata & FLT
  - SQL - PostgreSQL, PL/PGSQL, SQL, database theory, Index/Query Optimization
- - C++ - STL, Boost, Boost.Test
  - RESTful APIs - MVC, middleware, authorized endpoints
  - TS/JS - React, Zustand, NestJS, TypeORM
  - DevSecOps - iptables
 
 **Comfortable With** - The technologies that I have used extensively and am comfortable with
+ - C++ - STL, Boost, Boost.Test
  - Authentication - PKCE flow, OIDC, Auth0, JWTs
  - DevSecOps - Docker, Nginx, VPS setup and hardening, Github actions, continuous deployment, SSH
  - Linux - Ubuntu, Debian, Bash
