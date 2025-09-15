@@ -7,7 +7,7 @@ Hi! I'm Justice Roberts, I am a software engineer passionate about delivering hi
  - 💬 Ask me about quaternions
 ## Technical skills
 **Expert Level** - The technologies that I have the most experience with
- - Math - Linear Algebra, Abstract Algebra, Differential Equations, Calculus 3, Automata & FLT
+ - Math - Linear Algebra, Abstract Algebra, Differential Equations, Calculus 3, Theory of Statistics, Automata & FLT, Graph Theory
  - SQL - PostgreSQL, PL/PGSQL, SQL, database theory, Index/Query Optimization
  - RESTful APIs - MVC, middleware, authorized endpoints
  - TS/JS - React, Zustand, NestJS, TypeORM
@@ -23,11 +23,13 @@ Hi! I'm Justice Roberts, I am a software engineer passionate about delivering hi
  - Python - Pygame, Pytorch, Tensorflow
  - Java - FRC Robotics
  - CSS - Tailwind, StyledComponents
+ - Theory - Game Theory Foundations, Optimization Theory
 
-**Learning** - The technologies that I am actively learning
+**Learning** - The technologies and theory that I am actively learning
  - Go - Gin
  - Kubermetes
  - AWS - EC2, RDS, S3
+ - Theory - Dynamical Systems, Coevolutionary Game Theory, Topology, Statistical Methods
 
 <!--
 **EmryEnjoyer/EmryEnjoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
