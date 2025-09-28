@@ -1,7 +1,7 @@
-# Justice Roberts
+# Ada Conway
 
 ## About Me
-Hi! I'm Justice Roberts, I am a software engineer passionate about delivering high-quality database solutions, secure systems, and well-written back-end code.
+Hi! I'm Ada Conway, I am a computer scientist and mathematician passionate about delivering high-quality database solutions, secure systems, and well-written back-end code.
  - 📫 How to reach me: [e-mail](mailto://justice@conway.engineer)
  - 😄 Pronouns: She/They
  - 💬 Ask me about quaternions
