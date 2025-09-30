@@ -7,7 +7,7 @@ Hi! I'm Ada Conway, I am a computer scientist and mathematician passionate about
  - 💬 Ask me about quaternions
 ## Technical skills
 **Expert Level** - The technologies that I have the most experience with
- - Math - Linear Algebra, Abstract Algebra, Differential Equations, Calculus 3, Theory of Statistics, Automata & FLT, Graph Theory
+ - Math - Abstract Algebra, Automata & FLT, Graph Theory
  - SQL - PostgreSQL, PL/PGSQL, SQL, database theory, Index/Query Optimization
  - RESTful APIs - MVC, middleware, authorized endpoints
  - TS/JS - React, Zustand, NestJS, TypeORM
@@ -23,7 +23,7 @@ Hi! I'm Ada Conway, I am a computer scientist and mathematician passionate about
  - Python - Pygame, Pytorch, Tensorflow
  - Java - FRC Robotics
  - CSS - Tailwind, StyledComponents
- - Theory - Game Theory Foundations, Optimization Theory
+ - Theory - Game Theory Foundations, Optimization Theory, Linear Algebra, Differential Equations, Stats Theory
 
 **Learning** - The technologies and theory that I am actively learning
  - Go - Gin
